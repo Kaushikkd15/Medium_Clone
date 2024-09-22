@@ -2,5 +2,5 @@ name = "medium"
 compatibility_date = "2024-08-10"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzIzNDA3MTUtZDVkOS00MzE3LWIwMTgtOWIxOTcwYzE5OTQ2IiwidGVuYW50X2lkIjoiMzE2NzRjNDRjMjcwNzE0MzZjZmNhM2E3M2JmNTk2NDUzZWU1ZTlhOGE1NzlkMmI2MmEzMzJhMDVhNTQ4NmIzMyIsImludGVybmFsX3NlY3JldCI6IjkxZDliMGJmLTNjMmEtNDE0Ni04MjgxLWI3Yzc2MzBiMmYxMSJ9.jC_sr9bb0qef7R0tl3hP3Vais9LUkmPXSMuvtGRkr3E"
-JWT_Secret="Kaushikkd"
+DATABASE_URL=""
+JWT_Secret=""
